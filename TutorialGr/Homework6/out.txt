@@ -1,0 +1,121 @@
+1: Aberdeen, Scotland
+2: Adelaide, Australia
+3: Algiers, Algeria
+4: Amsterdam, Netherlands
+5: Ankara, Turkey
+6: Asuncion, Paraguay
+7: Athens, Greece
+8: Auckland, New Zealand
+9: Bangkok, Thailand
+10: Barcelona, Spain
+11: Beijing, China
+12: Belem, Brazil
+13: Belfast, Northern Ireland
+14: Belgrade, Serbia
+15: Berlin, Germany
+16: Birmingham, England
+17: Bogota, Colombia
+18: Bombay, India
+19: Bordeaux, France
+20: Bremen, Germany
+21: Brisbane, Australia
+22: Bristol, England
+23: Brussels, Belgium
+24: Bucharest, Romania
+25: Budapest, Hungary
+26: Buenos Aires, Argentina
+27: Cairo, Egypt
+28: Calcutta, India
+29: Canton, China
+30: Cape Town, South Africa
+31: Caracas, Venezuela
+32: Cayenne, French Guiana
+33: Chihuahua, Mexico
+34: Chongqing, China
+35: Copenhagen, Denmark
+36: Cordoba, Argentina
+37: Dakar, Senegal
+38: Darwin, Australia
+39: Djibouti, Djibouti
+40: Dublin, Ireland
+41: Durban, South Africa
+42: Edinburgh, Scotland
+43: Frankfurt, Germany
+44: Georgetown, Guyana
+45: Glasgow, Scotland
+46: Guatemala City, Guatemala
+47: Guayaquil, Ecuador
+48: Hamburg, Germany
+49: Hammerfest, Norway
+50: Havana, Cuba
+51: Helsinki, Finland
+52: Hobart, Tasmania
+53: Hong Kong, China
+54: Iquique, Chile
+55: Irkutsk, Russia
+56: Jakarta, Indonesia
+57: Johannesburg, South Africa
+58: Kingston, Jamaica
+59: Kinshasa, Congo
+60: Kuala Lumpur, Malaysia
+61: La Paz, Bolivia
+62: Leeds, England
+63: Lima, Peru
+64: Lisbon, Portugal
+65: Liverpool, England
+66: London, England
+67: Lyons, France
+68: Madrid, Spain
+69: Manchester, England
+70: Manila, Philippines
+71: Marseilles, France
+72: Mazatlan, Mexico
+73: Mecca, Saudi Arabia
+74: Melbourne, Australia
+75: Mexico City, Mexico
+76: Milan, Italy
+77: Montevideo, Uruguay
+78: Moscow, Russia
+79: Munich, Germany
+80: Nagasaki, Japan
+81: Nagoya, Japan
+82: Nairobi, Kenya
+83: Nanjing (Nanking), China
+84: Naples, Italy
+85: New Delhi, India
+86: Newcastle-on-Tyne, England
+87: Odessa, Ukraine
+88: Osaka, Japan
+89: Oslo, Norway
+90: Panama City, Panama
+91: Paramaribo, Suriname
+92: Paris, France
+93: Perth, Australia
+94: Plymouth, England
+95: Port Moresby, Papua New Guinea
+96: Prague, Czech Republic
+97: Rangoon, Myanmar
+98: Reykjavik, Iceland
+99: Rio de Janeiro, Brazil
+100: Rome, Italy
+101: Salvador, Brazil
+102: Santiago, Chile
+103: St. Petersburg, Russia
+104: Sao Paulo, Brazil
+105: Shanghai, China
+106: Singapore, Singapore
+107: Sofia, Bulgaria
+108: Stockholm, Sweden
+109: Sydney, Australia
+110: Tananarive, Madagascar
+111: Teheran, Iran
+112: Thessaloniki, Greece
+113: Tokyo, Japan
+114: Tripoli, Libya
+115: Venice, Italy
+116: Veracruz, Mexico
+117: Vienna, Austria
+118: Vladivostok, Russia
+119: Warsaw, Poland
+120: Wellington, New Zealand
+121: Zurich, Switzerland
